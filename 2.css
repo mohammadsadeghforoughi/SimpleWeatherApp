@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    text-transform: capitalize;
+    background: url(398730.jpg) fixed;
+    background-size: 100vw 100vh;
+    padding: 0;
+    overflow: hidden;
+}
+#selector{
+    position: absolute;
+    z-index: 10;
+    left: 40%;
+    
+}
+#flag{
+min-height: 200px;
+
+}
+#flg{
+    width: 100%;
+    
+}
+#weather {
+
+    background-color: aquamarine;
+}
+
+#nc {
+    min-height: 75px;
+}
+#nic {
+    min-height: 75px;
+}
+#info {
+    display: inline-block;
+}
+
+.icon {
+
+    display: inline-block;
+     
+    height: 100%;
+     float: right;
+    text-align: center
+}
+
+
+
+#capital {
+
+    text-align: center;
+    margin: auto;
+
+
+}
+
+.npad {
+    padding: 0 !important;
+}
